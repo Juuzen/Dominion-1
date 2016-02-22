@@ -286,4 +286,3 @@ void deallocaMatrice (int **campoGioco)
 	
 	free (campoGioco);
 }
-
